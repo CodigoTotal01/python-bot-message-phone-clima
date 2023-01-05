@@ -1,0 +1,1 @@
+Program in charge of sending a message to your cell phone using the services of twilio and open weather map, the geolocation of the place is indicated and if it rains a message will be sent depending on the configuration of the server that contains the code, in this case python everywhere was used
